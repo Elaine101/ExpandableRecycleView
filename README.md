@@ -1,7 +1,7 @@
 # ExpandableRecycleView
 只有两级的ExpandableRecycleView，基于https://github.com/hgDendi/ExpandableRecyclerView
 
-基于https://github.com/hgDendi/ExpandableRecyclerView补充实现了以下几点：
+补充实现了以下几点：
 
 1、childItem和groupItem的loadMore
 2、childItem和groupItem的局部刷新
